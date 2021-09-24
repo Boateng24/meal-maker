@@ -60,6 +60,7 @@ const menu = {
     },
 };
 
+// Please you can try by fixing any meal of your choice
 menu.addDishToCourse('appetizers', 'Caesar Salad', 4.25);
 menu.addDishToCourse('appetizers', 'flakes', 2.5);
 menu.addDishToCourse('appetizers', 'pop corn', 4.5);
